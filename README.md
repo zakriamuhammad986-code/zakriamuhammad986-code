@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Muhammad Zakria Nawaz
 
-**A Geo-Informatics Student | GIS & Remote Sensing Enthusiast | Aspiring Software Engineer from Pakistan 🇵🇰**
+**BS Geo-Informatics Student | GIS & Remote Sensing | ArcGIS | QGIS | Spatial Data Analysis | Aspiring Software Developer**
 
 📧 Email Me 👉 zakriamuhammad986@gmail.com
 

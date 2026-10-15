@@ -5,7 +5,7 @@
 📧 Email Me 👉 zakriamuhammad986@gmail.com
 
 - 🔭 **I'm currently working on:** GIS Projects, Spatial Analysis, and Web Development
-- 🌱 **I'm currently learning:** JavaScript, Node.js, MongoDB, Software Engineering, GIS & Remote Sensing
+- 🌱 **I'm currently learning:** GIS & Remote Sensing, JavaScript, Node.js, MongoDB, Software Engineering
 - 👯 **I'm looking to collaborate on:** GIS Applications, WebGIS Projects, and Open-Source Software Projects
 - 🤔 **I'm looking for help with:** Building real-world projects that combine GIS and Software Engineering
 - 💬 **Ask me about:** GIS, Remote Sensing, Spatial Analysis, and Web Development
